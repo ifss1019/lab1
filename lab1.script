@@ -1,0 +1,17 @@
+Script started on 2017年03月17日 (週五) 21時30分50秒
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m whoamo[Ki; pwd
+pd2vm
+/home/pd2vm
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m git com[Kngi[K[Kfig -l
+user.email=p0958293670@email.com
+user.name=ifss1019
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=https://github.com/ifss1019/lab1.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+branch.master.remote=origin
+branch.master.merge=refs/heads/master
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m d[K
+Script done on 2017年03月17日 (週五) 21時35分07秒
